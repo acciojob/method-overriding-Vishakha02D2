@@ -7,7 +7,7 @@ public class Main {
     B b1 = new B();
     b1.meth();
   }
- }
+ 
 class A{
   void meth(){
   System.out.println( "Invoking method from class A");
